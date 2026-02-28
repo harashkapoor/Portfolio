@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.06116184.css",
-    "main.js": "/static/js/main.416ab445.js",
-    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
-    "static/media/testbed.png": "/static/media/testbed.4c9680461e7872b0dd46.png",
-    "static/media/resumex.png": "/static/media/resumex.eaf56b53cee16814b211.png",
-    "static/media/5G_Research_Paper.pdf": "/static/media/5G_Research_Paper.410d4430be808cac3154.pdf",
-    "static/media/recipica.png": "/static/media/recipica.d6d5c81ef1b8d278631e.png",
-    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Harsh_Kapoor_Resume.pdf": "/static/media/Harsh_Kapoor_Resume.d17653ac14dca362005a.pdf",
-    "static/media/profile.png": "/static/media/profile.e3049dda9b9d44d723f0.png",
-    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/index.html",
-    "main.06116184.css.map": "/static/css/main.06116184.css.map",
-    "main.416ab445.js.map": "/static/js/main.416ab445.js.map",
-    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.26019175.css",
+    "main.js": "/Portfolio/static/js/main.1079c564.js",
+    "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/testbed.png": "/Portfolio/static/media/testbed.4c9680461e7872b0dd46.png",
+    "static/media/resumex.png": "/Portfolio/static/media/resumex.eaf56b53cee16814b211.png",
+    "static/media/5G_Research_Paper.pdf": "/Portfolio/static/media/5G_Research_Paper.410d4430be808cac3154.pdf",
+    "static/media/recipica.png": "/Portfolio/static/media/recipica.d6d5c81ef1b8d278631e.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Harsh_Kapoor_Resume.pdf": "/Portfolio/static/media/Harsh_Kapoor_Resume.d17653ac14dca362005a.pdf",
+    "static/media/profile.png": "/Portfolio/static/media/profile.e3049dda9b9d44d723f0.png",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.26019175.css.map": "/Portfolio/static/css/main.26019175.css.map",
+    "main.1079c564.js.map": "/Portfolio/static/js/main.1079c564.js.map",
+    "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06116184.css",
-    "static/js/main.416ab445.js"
+    "static/css/main.26019175.css",
+    "static/js/main.1079c564.js"
   ]
 }
